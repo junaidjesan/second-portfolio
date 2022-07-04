@@ -1,0 +1,12 @@
+.junaid{
+    margin-top: 100px; padding-left: 100px; padding-top: 10px; padding-bottom: 10px; margin-right: 70%; background-color: blueviolet; border-top-right-radius: 10px; box-shadow: 8px 8px 90px 5px black;
+}
+body{
+    margin: 0;
+}
+.photo{
+    height: 400px; width: 350px; margin-left: 50%; padding-left: 80%;
+}
+.display{
+    display: flex; margin: 150px;
+}
